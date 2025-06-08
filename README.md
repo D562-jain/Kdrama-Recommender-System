@@ -2,6 +2,10 @@
 
 A beautiful AI-powered K-drama recommendation website built with Next.js and Python Flask.
 
+# Live Preview
+![image](https://github.com/user-attachments/assets/99357e2b-e380-4d31-aa63-4c7b0c09204a)
+
+
 ## Features
 
 - 🎬 Browse 250+ K-dramas with ratings, genres, and details
@@ -80,13 +84,4 @@ The frontend will start on http://localhost:3000
 - `GET /api/search?q=query` - Search dramas by title
 - `GET /api/stats` - Get dataset statistics
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-MIT License - feel free to use this project for learning and development!
